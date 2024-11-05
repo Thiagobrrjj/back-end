@@ -1,0 +1,22 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "user/products/keys/address api",
+        "description": "tem como objetivo fazer um crud completo dessas 4 especificações",
+        "termsOfService": "http://localhost:30001/terms",
+        "contact": {
+            "email": "calvinsoares17@gmail.com"
+        },
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "http://localhost:30001",
+            "description": "API de teste"
+        },
+        {
+            "url": "https://apx-x.onrender.com",
+            "description": "API de produção"
+        }
+    ]
+}
